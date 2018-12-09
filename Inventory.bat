@@ -1,5 +1,4 @@
-:: Windows Inventory Script v5.0
-:: 12-8-18
+:: Windows Inventory Script
 
 :: Turn off display
 echo off
